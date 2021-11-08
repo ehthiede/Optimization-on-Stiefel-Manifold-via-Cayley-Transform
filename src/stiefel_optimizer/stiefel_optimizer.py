@@ -3,17 +3,17 @@ import torch
 from torch.optim.optimizer import Optimizer, required
 import numpy as np
 
-from gutils import unit
-from gutils import gproj
-from gutils import clip_by_norm
-from gutils import xTy
-from gutils import gexp
-from gutils import gpt
-from gutils import gpt2
-from gutils import Cayley_loop
-from gutils import qr_retraction
-from gutils import check_identity
-from utils import matrix_norm_one
+from stiefel_optimizer.gutils import unit
+from stiefel_optimizer.gutils import gproj
+from stiefel_optimizer.gutils import clip_by_norm
+from stiefel_optimizer.gutils import xTy
+from stiefel_optimizer.gutils import gexp
+from stiefel_optimizer.gutils import gpt
+from stiefel_optimizer.gutils import gpt2
+from stiefel_optimizer.gutils import Cayley_loop
+from stiefel_optimizer.gutils import qr_retraction
+from stiefel_optimizer.gutils import check_identity
+from stiefel_optimizer.utils import matrix_norm_one
 import random
 
 import pdb

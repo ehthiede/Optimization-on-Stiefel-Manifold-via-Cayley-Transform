@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/stiefel_optimizer/__init__.py
+src/stiefel_optimizer/cvtransforms.py
+src/stiefel_optimizer/grassmann_optimizer.py
+src/stiefel_optimizer/gutils.py
+src/stiefel_optimizer/main.py
+src/stiefel_optimizer/resnet.py
+src/stiefel_optimizer/stiefel_optimizer.py
+src/stiefel_optimizer/utils.py
+src/stiefel_optimizer/vgg.py
+src/stiefel_optimizer.egg-info/PKG-INFO
+src/stiefel_optimizer.egg-info/SOURCES.txt
+src/stiefel_optimizer.egg-info/dependency_links.txt
+src/stiefel_optimizer.egg-info/top_level.txt
